@@ -1,0 +1,25 @@
+# Secrets & Environment variables
+.env
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+backend/src/endo_agent/test.py
+
+# Playwright & browser profiles
+.browser_profile/
+
+# Python cache & build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Mac OS files
+.DS_Store
